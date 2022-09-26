@@ -1,15 +1,9 @@
-!DOCTYPE html>
-<html>
-<html lang="pt-br">
-<head>
-<body text=blue>
-<font color=red>
-</body>
-</html>
-<link rel="stylesheet" href="style.css">
-<meta charset="UTH-8"
-<h1><b><p aling=center>CN CLOTHES<b/></h1>
-</head>
+<doctype html>
+
+<h1><title>{color:blue;text-aling:center;} size=`Num.6´CN CLOTHES
+
+<body><p> Localizado na Casa Da Jandira 
+
 <body text=pink>
  <p><strong><p aling=center>A CASA DA JANDIRA</p><strong>
  <p><em><p aling=center>TRAZER ROUPAS DE MODA <strong> POR UM PREÇO ACESSIVEL </p></strong>.</em><p>
